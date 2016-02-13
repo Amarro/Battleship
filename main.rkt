@@ -5,13 +5,6 @@
 ;(provide gui-2-p)
 
 
-
-
-
-
-
-
-
 ;;font for the buttons
 (define btn-font(make-object font%
                   18	 	 	 	 
